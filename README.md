@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=for-the-badge&logo=jupyter)
 
-## 🚀 Featured Projects
+## 🚀 Active Projects
 
 ### [Voice Based Pronunciation Prediction](https://github.com/Mohamedaslam227/voice-based-pronunciation-prediction)
 
@@ -30,24 +30,6 @@ A tool that analyzes pronunciation quality through audio recordings, utilizing A
 **Technologies:** Python, ASR Models, Speech Recognition
 
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-
-### [AI-Based Fruit & Vegetable Classifier](https://github.com/Mohamedaslam227/AI-BASED-FRUIT-VEGETABLE-CLASSIFIER)
-
-A deep learning model integrated with a Streamlit web app for real-time classification of fruits and vegetables.
-
-**Technologies:** TensorFlow, Streamlit, Python
-
-![Project Status](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)
-
-### [Plagiarism Checker](https://github.com/Mohamedaslam227/PlagiarismChecker)
-
-A tool utilizing AI and data analytics to analyze text similarity, featuring a user-friendly GUI.
-
-**Technologies:** Python, scikit-learn, Tkinter
-
-![Project Status](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)
-
-## 🛠️ Ongoing Projects
 
 ### [Safety Management In Construction By Semantic Matching Using YOLO-ASCA](https://github.com/Mohamedaslam227/Safety-Management-In-Construction-By-Semantic-Matching-Using-YOLO-ASCA)
 
@@ -60,6 +42,14 @@ A deep learning-based safety monitoring system for construction sites, integrati
 ## 📈 GitHub Stats
 
 ![Mohamed Aslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedaslam227&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedaslam227&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedaslam227&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamedaslam227&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's Connect!
 
