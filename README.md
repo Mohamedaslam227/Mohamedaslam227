@@ -107,10 +107,6 @@ me.say_hi()
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamedaslam227&theme=tokyonight&utcOffset=8" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedaslam227" alt="GitHub Streak Stats"/>
-</div>
-
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedaslam227&theme=tokyo-night&area=true&hide_border=true" width="100%">
