@@ -70,9 +70,6 @@ Advanced construction safety monitoring system:
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohamedaslam227&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 Contribution Graph
-![Snake animation](https://github.com/Mohamedaslam227/Mohamedaslam227/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ## 🤝 Connect With Me
