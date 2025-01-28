@@ -52,7 +52,7 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-<summary>🧑‍💻 Languages & Frameworks</summary>
+### 🧑‍💻 Languages & Frameworks
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ me.say_hi()
 
 
 
-<summary>📚 Libraries & Tools</summary>
+### 📚 Libraries & Tools
 <div align="center">
   
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -79,7 +79,7 @@ me.say_hi()
 
 
 
-<summary>🛠️ Development Tools</summary>
+### 🛠️ Development Tools
 <div align="center">
   
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
