@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mohamedaslam227&style=for-the-badge&color=3b82f6"/>
   
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=3BAAFF&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=3BAAFF&center=true&vCenter=true&random=false&width=435&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer" alt="Typing SVG" />
 
   <!-- Social Badges -->
   <p>
@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class DataScientist:
+class Engineer:
     def __init__(self):
         self.name = "Mohamed Aslam"
         self.role = "AI & Data Science Student"
@@ -34,10 +34,10 @@ class DataScientist:
             "languages": ["Python", "SQL", "R"],
             "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
             "deep_learning": ["CNN", "RNN", "Transformers"],
-            "tools": ["Git", "Docker", "Jupyter"]
+            "tools": ["Git","Jupyter"]
         }
         self.interests = ["Machine Learning", "Deep Learning", 
-                         "Computer Vision", "NLP"]
+                         "Computer Vision"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's turn data into insights!")
