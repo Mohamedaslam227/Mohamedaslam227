@@ -34,7 +34,7 @@ class Engineer:
             "languages": ["Python", "SQL", "R"],
             "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
             "deep_learning": ["CNN", "RNN", "Transformers"],
-            "tools": ["Git","Jupyter"]
+            "tools": ["VS Code","Jupyter"]
         }
         self.interests = ["Machine Learning", "Deep Learning", 
                          "Computer Vision"]
@@ -82,7 +82,6 @@ me.say_hi()
 ### 🛠️ Development Tools
 <div align="center">
   
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
