@@ -86,19 +86,6 @@ Developed an innovative multi-modal safety compliance framework combining YOLO o
 
 ---
 
-## Certifications
-
-- **AWS Certified Cloud Practitioner**
-
----
-
-## Leadership
-
-- **Chairperson** - The Institution of Engineers (India), Department Level
-- Organized and chaired Gyanmitra technical event
-- Active participant in technical competitions and paper presentations
-
----
 
 ## GitHub Stats
 
