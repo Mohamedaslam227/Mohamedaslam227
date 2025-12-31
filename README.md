@@ -16,12 +16,13 @@
 
 ## About Me
 
-I'm a passionate **Machine Learning Engineer** specializing in computer vision, deep learning, and production-ready AI systems. I thrive at the intersection of cutting-edge research and practical depl[...]
+I'm a passionate **Machine Learning Engineer** specializing in computer vision, deep learning, and production-ready AI systems. I thrive at the intersection of cutting-edge research and practical deployment.
 
 Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML training pipelines and deploy models to edge devices.
 
 - 🔭 Working on **Computer Vision & Edge AI Deployment**
-- 🌱 Exploring **RAG Systems & LLM Integration**
+- 🤖 Building **LLM-powered RAG & agentic workflows** using **LangChain** and **LangGraph**
+- 🌱 Exploring **LLM Integration & Scalable AI Systems**
 - 📚 Published researcher at **IEEE WISPNET 2024**
 - 💡 Passionate about **Real-time AI Applications**
 - 🎯 Focused on **Production ML Systems**
@@ -34,6 +35,8 @@ Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML tra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### ML & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -41,6 +44,8 @@ Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML tra
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -70,27 +75,28 @@ Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML tra
 ```python
 expertise = {
     "Computer Vision": ["Object Detection", "Image Segmentation", "Classification"],
-    "ML Operations": ["Training Pipelines", "Model Deployment", "Edge AI","YOLO", "RAG Systems"],
-    "Backend Systems": ["FastAPI", "WebSocket", "RESTful APIs"],
+    "LLM Systems": ["RAG Systems", "LangChain", "LangGraph", "Prompt Engineering"],
+    "ML Operations": ["Training Pipelines", "Model Deployment", "Edge AI", "YOLO"],
+    "Backend Systems": ["FastAPI", "Node.js", "Go", "WebSocket", "RESTful APIs"],
     "Cloud Platforms": ["AWS (EC2, S3, RDS)", "Azure (Data Lake, Databricks)"]
 }
-```
+````
 
 ---
 
 ## Featured Research
 
 ### YOLO-ASCA: Rule-Based Framework for Construction Safety
+
 *IEEE WISPNET International Conference 2024*
 
-Developed an innovative multi-modal safety compliance framework combining YOLO object detection with semantic rule validation for real-time construction site safety assessment, achieving 92% accuracy [...]
+Developed a multi-modal safety compliance framework combining YOLO object detection with semantic rule validation for real-time construction site safety assessment, achieving **92% accuracy**.
 
 **Technologies:** YOLO, Gradio, GloVe Embeddings, Attentive BiGRU
 
 📄 [Read Paper](https://ieeexplore.ieee.org/document/11005349)
 
 ---
-
 
 ## GitHub Stats
 
@@ -107,23 +113,22 @@ Developed an innovative multi-modal safety compliance framework combining YOLO o
 
 ## Let's Connect!
 
-I'm always interested in collaborating on exciting ML/AI projects or discussing innovative ideas in computer vision and edge AI. Feel free to reach out!
+I'm always interested in collaborating on exciting ML/AI projects or discussing innovative ideas in computer vision, LLM systems, and edge AI.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifnisha89295@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-aslam)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedaslam227)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alifnisha89295@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohamed-aslam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mohamedaslam227)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 *"Turning data into intelligent solutions, one model at a time"* 💡
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedaslam227&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamedaslam227\&color=brightgreen\&style=for-the-badge)
 
 </div>
-```
