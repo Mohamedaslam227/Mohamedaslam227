@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a passionate **Machine Learning Engineer** specializing in computer vision, deep learning, and production-ready AI systems. I thrive at the intersection of cutting-edge research and practical deployment, with experience in building scalable ML pipelines, edge AI solutions, and intelligent backend systems.
+I'm a passionate **Machine Learning Engineer** specializing in computer vision, deep learning, and production-ready AI systems. I thrive at the intersection of cutting-edge research and practical depl[...]
 
 Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML training pipelines and deploy models to edge devices.
 
@@ -59,6 +59,14 @@ Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML tra
 
 ---
 
+## Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7.png)](https://www.credly.com/badges/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7/linked_in_profile)
+
+- AWS Certified Cloud Practitioner — Verified on Credly
+
+---
+
 ## Core Expertise
 
 ```python
@@ -78,7 +86,7 @@ expertise = {
 ### YOLO-ASCA: Rule-Based Framework for Construction Safety
 *IEEE WISPNET International Conference 2024*
 
-Developed an innovative multi-modal safety compliance framework combining YOLO object detection with semantic rule validation for real-time construction site safety assessment, achieving 92% accuracy in identifying safety violations.
+Developed an innovative multi-modal safety compliance framework combining YOLO object detection with semantic rule validation for real-time construction site safety assessment, achieving 92% accuracy [...]
 
 **Technologies:** YOLO, Gradio, GloVe Embeddings, Attentive BiGRU
 
@@ -121,3 +129,4 @@ I'm always interested in collaborating on exciting ML/AI projects or discussing 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamedaslam227&color=brightgreen&style=for-the-badge)
 
 </div>
+```
