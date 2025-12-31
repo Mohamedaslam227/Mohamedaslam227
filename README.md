@@ -100,14 +100,15 @@ Developed an innovative multi-modal safety compliance framework combining YOLO o
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedaslam227&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedaslam227&layout=compact&theme=radical)
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedaslam227&theme=github_dark" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamedaslam227&theme=github_dark" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamedaslam227&theme=github_dark" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedaslam227&theme=github_dark" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamedaslam227&theme=github_dark&utcOffset=5.5" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedaslam227&theme=github-compact&hide_border=true&area=true" width="100%">
 </div>
 
 ---
