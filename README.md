@@ -61,9 +61,8 @@ Currently crafting AI solutions at **EmbedUR Systems**, where I architect ML tra
 
 ## Certifications
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7.png)](https://www.credly.com/badges/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7/linked_in_profile)
-
-- AWS Certified Cloud Practitioner — Verified on Credly
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7.png)](https://www.credly.com/badges/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7/linked_in_profile)  
+[AWS Certified Cloud Practitioner — Verified on Credly](https://www.credly.com/badges/5b9e3b0f-bfe3-4529-85e9-0494e0b522d7/linked_in_profile)
 
 ---
 
